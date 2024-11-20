@@ -1,3 +1,7 @@
+<div>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFpkdkiONsMzA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726848386791?e=1737590400&v=beta&t=ghPqKVz0nNbVQ4lqbpQrVgaNa-S9Spkb7ckx3U2GWG8"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Tasnima Rahim Mim</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
