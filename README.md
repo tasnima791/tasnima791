@@ -1,6 +1,5 @@
 <div>
-  <img src="![GitHub Image](https://github.com/user-attachments/assets/e4d3c627-2840-4234-9712-ba471427ae3a)
-"/>
+  <img src="![GitHub Image](https://github.com/user-attachments/assets/e4d3c627-2840-4234-9712-ba471427ae3a)"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tasnima Rahim Mim</h1>
